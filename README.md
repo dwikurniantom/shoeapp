@@ -1,2 +1,3 @@
-# shoeapp
-This is a test from Tradaru startup company.
+## Shoeapp
+This application created for competency test PT.Tradaru Digital Niaga
+Feel free to clone
